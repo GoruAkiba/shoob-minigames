@@ -5,6 +5,12 @@ SHOOB MiniGames Tracker
 =======================
 > a webhook notification for every Tier 2 or higher spawn on Shoob MiniGames.
 
+![GitHub contributors](https://img.shields.io/github/contributors/GoruAkiba/shoob-minigames)
+![GitHub last commit](https://img.shields.io/github/last-commit/GoruAkiba/shoob-minigames)
+![GitHub repo size](https://img.shields.io/github/repo-size/GoruAkiba/shoob-minigames)
+[![Discord](https://img.shields.io/discord/332877090003091456)](https://discord.gg/DxenCeV )
+[![Run on Repl.it](https://repl.it/badge/github/GoruAkiba/shoob-minigames)](https://repl.it/github/GoruAkiba/shoob-minigames)
+
 ## Requirement
 + Node.js Server
 + [``socket.io-client``](https://www.npmjs.com/package/socket.io-client) lib
