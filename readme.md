@@ -28,7 +28,7 @@ SHOOB MiniGames Tracker
 
 ## Contributing
 
-- [Fork it!](https://github.com/GoruAkiba/#/fork)
+- [Fork it!](https://github.com/GoruAkiba/shoob-minigames/fork)
 - Create your feature branch: ``git checkout -b my-new-feature``
 - Commit your changes: ``git commit -am "Add some feature"``
 - Push to the branch: ``git push origin my-new-feature``
@@ -39,5 +39,5 @@ Joint our Discord Community
 or buy me coffe, [☕ here](https://trakteer.id/gb-sources-santoso)
 
 ## Author
-**SHOOB MiniGames Tracker** GNU License. <br>
+**SHOOB MiniGames Tracker** [LGPL-3.0 License](https://github.com/GoruAkiba/shoob-minigames/blob/master/LICENSE). <br>
 Authored and maintained by GB_sources.

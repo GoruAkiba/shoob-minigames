@@ -1,14 +1,14 @@
 {
-  "name": "ws-try",
+  "name": "shoob-minigames",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["webhook","discord","shoob","javascript"],
+  "author": "GB_Sources",
+  "license": "LGPL-3.0 License",
   "dependencies": {
     "request": "^2.88.2",
     "socket.io-client": "^2.3.0"
