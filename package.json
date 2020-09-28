@@ -4,9 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["webhook","discord","shoob","javascript"],
+  "keywords": [
+    "webhook",
+    "discord",
+    "shoob",
+    "javascript"
+  ],
   "author": "GB_Sources",
   "license": "LGPL-3.0 License",
   "dependencies": {

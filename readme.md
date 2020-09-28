@@ -8,7 +8,7 @@ SHOOB MiniGames Tracker
 ![GitHub contributors](https://img.shields.io/github/contributors/GoruAkiba/shoob-minigames)
 ![GitHub last commit](https://img.shields.io/github/last-commit/GoruAkiba/shoob-minigames)
 ![GitHub repo size](https://img.shields.io/github/repo-size/GoruAkiba/shoob-minigames)
-[![Discord](https://img.shields.io/discord/332877090003091456)](https://discord.gg/DxenCeV )
+[![Discord](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://discord.gg/DxenCeV )
 [![Run on Repl.it](https://repl.it/badge/github/GoruAkiba/shoob-minigames)](https://repl.it/github/GoruAkiba/shoob-minigames)
 
 ## Requirement
