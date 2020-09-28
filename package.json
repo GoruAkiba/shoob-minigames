@@ -16,7 +16,9 @@
   "author": "GB_Sources",
   "license": "LGPL-3.0 License",
   "dependencies": {
+    "express": "^4.17.1",
     "request": "^2.88.2",
-    "socket.io-client": "^2.3.0"
+    "socket.io-client": "^2.3.0",
+    "socketstats": "^1.0.9"
   }
 }
