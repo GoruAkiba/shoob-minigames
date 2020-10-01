@@ -94,7 +94,7 @@ function substract(a,b){
 
 function sendHook(obj){
 	// console.log(obj.card);
-	if(obj.card.tier < 2) return ;
+	if(obj.card.tier < 3) return ;
 	var card = obj.card,
 			icon = "https://cdn.animesoul.com/images/content/shoob-square.png",
 			games = last_emmited.find(e => {

@@ -10,7 +10,7 @@ app.get("/",(req,resp)=>{
 // Discord Client leak
 const client = {
 	user:{
-		username:"shoob minigames", 
+		username:"MiniGames", 
 		id: 200801, 
 		tag: "#Shoob-Tracker", 
 		verified: true,

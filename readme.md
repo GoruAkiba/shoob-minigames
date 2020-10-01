@@ -3,7 +3,7 @@
 
 SHOOB MiniGames Tracker
 =======================
-> a webhook notification for every Tier 2 or higher spawn on Shoob MiniGames.
+> a webhook notification for every Tier 3 or higher spawn on Shoob MiniGames.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/GoruAkiba/shoob-minigames)
 ![GitHub last commit](https://img.shields.io/github/last-commit/GoruAkiba/shoob-minigames)
